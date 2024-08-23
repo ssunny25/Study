@@ -1,4 +1,4 @@
-## Study for Spring
+## SpringBasic
 
 **스프링 컨테이너(DI 컨테이너)**</br>
 `@Configuration` : `@Bean`을 붙인 메서드들을 모아놓은 설정 클래스에 붙여주는 것</br>
